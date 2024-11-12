@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'polls',
+        'NAME': 'polls_33d7',
         'USER': 'debojit',
-        'PASSWORD': 'postgres',
-        'HOST': '127.0.0.1',
+        'PASSWORD': 'btbTgCzMwJLYxqjUoBqu09OYY0m1F09a',
+        'HOST': 'dpg-cspl752j1k6c73avi76g-a.singapore-postgres.render.com',
         'PORT': '5432',
     }
 }
